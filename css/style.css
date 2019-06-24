@@ -107,7 +107,7 @@ nav a:hover {
         justify-content: space-around;
     }
 
-    nav img:hover {
+    nav a img:hover {
         filter: invert(100%) sepia(73%) saturate(0%) hue-rotate(339deg) brightness(110%) contrast(103%);
     }
 }
