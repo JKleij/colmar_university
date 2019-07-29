@@ -80,6 +80,7 @@ nav a {
 nav a:hover {
     background-color: #3086b9;
     color: #ffffff;
+    cursor: pointer;
 }
 
 .nav-mobile {
@@ -109,6 +110,7 @@ nav a:hover {
 
     nav a img:hover {
         filter: invert(100%) sepia(73%) saturate(0%) hue-rotate(339deg) brightness(110%) contrast(103%);
+        cursor: pointer;
     }
 }
 
@@ -166,6 +168,7 @@ main {
 
 .banner-button:hover {
     background-color: #3086b9;
+    cursor: pointer;
 }
 
 @media only screen and (max-width: 950px) {
@@ -262,6 +265,7 @@ main {
     background-color: #3086b9;
     color: #ffffff;
     padding: 8px;
+    cursor: pointer;
 }
 
 .guest {
@@ -340,6 +344,7 @@ main {
 .courses-tiles:hover {
     background-color: #3086b9;
     color: #ffffff;
+    cursor: pointer;
 }
 
 .courses-tiles-image img {
@@ -525,4 +530,5 @@ footer {
 .footer-links a:hover {
     background-color: #3086b9;
     color: #ffffff;
+    cursor: pointer;
 }
